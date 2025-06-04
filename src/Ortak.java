@@ -3,6 +3,6 @@ public class Ortak {
 
         System.out.println("Merhaba");
 
-        System.out.println("selam");
+        System.out.println("selam arkadaşlar");
     }
 }
